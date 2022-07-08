@@ -1,5 +1,8 @@
 import React from 'react'
+
 import { RepositoryItem } from './RepositoryItem'
+
+import '../styles/repositories.scss'
 
 export function RepositoryList() {
   return (
